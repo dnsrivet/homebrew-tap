@@ -1,3 +1,4 @@
+# drift marker round 2
 class Dnsrivet < Formula
   desc "Lightweight encrypted DNS forwarding daemon for macOS"
   homepage "https://github.com/WenliangCao/DNSRivet"
