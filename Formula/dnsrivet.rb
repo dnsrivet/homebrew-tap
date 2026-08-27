@@ -1,4 +1,3 @@
-# temporary drift marker - the release automation should remove this
 class Dnsrivet < Formula
   desc "Lightweight encrypted DNS forwarding daemon for macOS"
   homepage "https://github.com/WenliangCao/DNSRivet"
