@@ -1,8 +1,8 @@
 class Dnsrivet < Formula
   desc "Lightweight encrypted DNS forwarding daemon for macOS"
   homepage "https://github.com/WenliangCao/DNSRivet"
-  url "https://github.com/WenliangCao/DNSRivet/releases/download/v0.3.2/dnsrivet-v0.3.2-macos-universal2.zip"
-  sha256 "cb37c85ec6f82aa061f101d8e21c5335f32a0df4d01ad2378a8850c6a3abaa02"
+  url "https://github.com/WenliangCao/DNSRivet/releases/download/v0.3.3/dnsrivet-v0.3.3-macos-universal2.zip"
+  sha256 "2aa761c9da4169c252df36925e758936fd2d6814602e982cc378d927df881b62"
   license "MIT"
 
   depends_on macos: :big_sur
